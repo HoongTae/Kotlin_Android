@@ -13,4 +13,10 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "ActivityCode_View"
-include ':app'
+include ':ch3_practice'
+include ':kakao_password_page'
+include ':kakao_chat_list_page'
+include ':call_keypad'
+include ':stop_watch'
+include ':massengerapp_intro'
+include ':kakao_notification'
